@@ -38,9 +38,9 @@ The PEAS framework describes the Performance measure, Environment, Actuators and
 
 
 
-## Route segments
+  3.Otpimal path
 
-Below is the table of road segments and their distances (km):
+
 
 | Segment | From         | To           | Distance (km) |
 |---------:|--------------|--------------|---------------:|
