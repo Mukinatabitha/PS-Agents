@@ -28,3 +28,8 @@ The PEAS framework describes the Performance measure, Environment, Actuators and
 5. **Continuous or Discrete, Single-Agent or Multi-Agent**
    * **Continuous vs. Discrete:** Actual driving is continuous because speed, steering and distance change over time. Map-based route planning is discrete because it uses specific towns as states and roads as connections between them.
    * **Single-Agent vs. Multi-Agent:** Actual driving is multi-agent because the trailer shares the road with other drivers and pedestrians, who have their own actions and goals. Map-based route planning is single-agent because the trailer searches for the best route on its own.
+  ##2.Graph and Tree
+     <img width="867" height="645" alt="WhatsApp Image 2026-10-16 at 22 16 31" src="https://github.com/user-attachments/assets/624d9c4d-514c-45fd-b361-ac4bfeec4908" />
+     <img width="1273" height="685" alt="WhatsApp Image 2026-10-16 at 22 23 55" src="https://github.com/user-attachments/assets/7ae0c36c-d983-4c06-b538-759ae8ebb427" />
+
+
