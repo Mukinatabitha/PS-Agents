@@ -36,3 +36,34 @@ The PEAS framework describes the Performance measure, Environment, Actuators and
      <img width="1273" height="685" alt="WhatsApp Image 2026-10-16 at 22 23 55" src="https://github.com/user-attachments/assets/7ae0c36c-d983-4c06-b538-759ae8ebb427" />
 
 
+     ## 3.Nairobi to Nakuru optimal path
+<img width="407" height="395" alt="image" src="https://github.com/user-attachments/assets/10e39448-0d92-4d63-996f-51d40a65ec24" />
+
+
+
+ Path 1 : (fails to reach Nakuru)
+ Nairobi → Ruiru → Thika → Nyeri → Nairobi
+ * 20 + 25 + 110 + 115 = 270km
+
+ Path 2 :
+ Nairobi → Ruiru → Thika → Nyeri → Nyahururu → Nakuru
+ * 20 + 25 + 110 + 80 + 105 = 340km 
+
+ Path 3 :
+ Nairobi → Naivasha → Nakuru
+ * 90 + 65 = 155km
+
+ Path 4 :
+ Nairobi → Naivasha → Narok → Bomet → Kericho → Molo → Nakuru
+ * 90 + 100 + 85 + 60 + 65 + 50 = 450km
+
+ Path 5 :
+ Nairobi → Nyeri → Nyahururu → Nakuru  
+ * 115 + 80 + 105 = 300km
+
+ Optimal path : Nairobi → Naivasha → Nakuru =  155km
+
+<img width="1280" height="960" alt="WhatsApp Image 2026-10-19 at 14 07 57" src="https://github.com/user-attachments/assets/420e86c8-6920-4e57-8f3a-ca82cd580e31" />
+
+
+ 
